@@ -1,0 +1,50 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.heading_div
+{
+    float: none;
+    background: white;
+    padding: 10px;
+    border-radius: 20px;
+    color: black;
+    box-shadow: 5px 5px 5px black;
+}
+
+.heading_div2
+{
+    font-size: 18px;
+}
+
+body{
+    font-family: 'Sansita Swashed', cursive;
+}
+
+.result_para_tag{
+    box-shadow: 5px 5px 5px grey;
+    font-size: 20px;
+    
+}
+.footer{
+
+    position: fixed;
+    color: white;
+    bottom: 0;
+    background: rgb(110, 109, 109);
+    line-height: 3;
+    text-align: center;
+    width: 100%;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20;
+    box-shadow: 5px 5px 5px grey;
+    margin-top: 150px;
+}
+
